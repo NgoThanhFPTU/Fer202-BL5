@@ -1,0 +1,8 @@
+.basic-grid{
+    background-color: #E9ECEF;
+}
+
+.col, .col-3, .col-6{
+    border: 1px solid black;
+    height: 50px;
+}

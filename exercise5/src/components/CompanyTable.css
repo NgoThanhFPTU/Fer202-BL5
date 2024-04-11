@@ -1,0 +1,25 @@
+.company-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.company-table th, .company-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.company-table th {
+  background-color: #f2f2f2;
+  font-size: 14px;
+  font-size: large;
+}
+
+.company-table td {
+  font-size: 20px;
+}
+table{
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
